@@ -1,0 +1,87 @@
+body{
+    background-color: purple;
+    color: white;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 15%;
+    margin-top: 50px;
+}
+
+.intro{
+    display: block;
+    text-align: center;
+    color: whitesmoke;
+    font-family: serif;
+}
+
+hr{
+    width: 25%;
+    height: 5px;
+    border-width: 10px;
+    color: rgb(194, 186, 186);
+    border-style: dotted none none;
+}
+p{
+    display: block;
+    margin-top: 20px;
+    margin-bottom: auto;
+    
+}
+.ddiv{
+    margin-left: 70px;
+    color: rgb(209, 118, 209);
+}
+
+h1{
+    margin-bottom: auto;
+    font-size: 1.5em;
+    color: rgb(253, 101, 253);
+}
+h2{
+    margin-bottom: auto;
+    color: rgb(253, 101, 253);
+}
+h3{
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 1.5em;
+    color: rgb(253, 101, 253);
+}
+h4{
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 1.2em;
+    color: rgb(253, 101, 253);
+    text-align: right;
+}
+#books{
+    margin-left: 200px;
+}
+
+#work{
+    margin-left: 200px;
+}
+
+#skills{
+    margin-left: 200px;
+}
+
+/*.contact{
+    text-align: right;
+    margin-right: 100px;
+    font-size: 30px;
+    color: whitesmoke;
+}*/
+
+p4{
+    display: block;
+    font-size: 20px;
+    margin-top: auto;
+    text-align: right;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+}
