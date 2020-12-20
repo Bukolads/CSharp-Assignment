@@ -1,5 +1,5 @@
 body{
-    background-color: purple;
+    background-color: rgb(253, 101, 253);
     color: white;
 }
 
@@ -39,23 +39,23 @@ p{
 h1{
     margin-bottom: auto;
     font-size: 1.5em;
-    color: rgb(253, 101, 253);
+    color: purple;
 }
 h2{
     margin-bottom: auto;
-    color: rgb(253, 101, 253);
+    color: purple;
 }
 h3{
     margin-top: auto;
     margin-bottom: auto;
     font-size: 1.5em;
-    color: rgb(253, 101, 253);
+    color: purple;
 }
 h4{
     margin-top: auto;
     margin-bottom: auto;
     font-size: 1.2em;
-    color: rgb(253, 101, 253);
+    color: purple;
     text-align: right;
 }
 #books{
